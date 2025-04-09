@@ -12,7 +12,7 @@ A virtual enterprise-like network designed for blue teaming, threat detection, a
 - Tools: pfSense, Kali Linux, Windows Server 2019, Active Directory, Metasploitable, Windows 10, Zeek
 - Features: Internal segmentation, firewall rules, DHCP/DNS, vulnerable AD environment, simulated attacks
 
-📄 [Read Full Documentation](./HOMELAB%20SETUP.pdf)
+📄 [Read Full Documentation](./HOMELAB_SETUP.pdf)
 
 ---
 
